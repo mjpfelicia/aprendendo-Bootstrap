@@ -1,0 +1,29 @@
+body {
+    font: 20px, Arial, sans-serif;
+}
+
+.navbar {
+    background: #556B2F;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.margen {
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: rgb(162, 174, 196);
+}
+
+.text-footer {
+    padding: 30px;
+}
+
+.bg-footer {
+    background: #556B2F;
+    color: white;
+    text-align: center;
+}
